@@ -11,21 +11,17 @@ Passionné par l'innovation technologique et l'amélioration continue des systè
 - 🛠️ Je m'épanouis dans l'optimisation des processus IT
 - 🌱 Toujours en quête d'amélioration continue
 
-### 🛠️ Stack Technique
+### 🛠️ Stack Technique et En cours d'apprentissage
 
-*## 🛠️ Stack Technique et En cours d'apprentissage
-| **Infrastructure & Cloud :** | **DevOps & Automatisation :** |
-| --- | --- |
-| ☁️ AWS | 🔄 Ansible, Terraform |
-| 🖥️ Windows Server, Linux (RedHat, CentOS) | 📦 Jenkins |
-| 🌐 CISCO Networking | 🌿 Git |
-
-### 📚 En cours d'apprentissage
-- 📊 GitLab/GitHub - Workflows & CI/CD
-- ⚡ Kubernetes
-- ☁️ OpenStack
-- 📈 Kibana
-- 🔄 Méthodologies Agiles
+**Infrastructure, Cloud & DevOps :**  
+- ☁️ AWS, OpenStack  
+- 🖥️ Windows Server | Linux (RedHat, CentOS, Ubuntu)  
+- 🌐 Réseaux Cisco (VLAN, routage, commutation)  
+- 🔄 Automatisation avec Ansible, Terraform  
+- 📦 Jenkins | CI/CD avec GitLab/GitHub  
+- ⚡ Docker | Kubernetes  
+- 🌿 Gestion de code source avec Git, GitHub, GitLab  
+- 📊 Monitoring et Log Management : Elasticsearch, Kibana, Log Management 
 ### 🎯 Objectifs
 
 - Approfondir mes connaissances en Infrastructure as Code
