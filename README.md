@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Bonjour, Je suis Cisse
 
-<!--
-**ceasay/ceasay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Ingénieur DevOps en transition | 14 ans d'expérience en Admin Sys & Réseau
 
-Here are some ideas to get you started:
+Passionné par l'innovation technologique et l'amélioration continue des systèmes IT, je transforme mon expertise approfondie en administration système en solutions DevOps modernes et efficaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 À propos de moi
+
+- 🚀 En transition active vers le DevOps depuis 2023
+- 🔍 Passionné par la recherche et l'expérimentation technologique
+- 🛠️ Je m'épanouis dans l'optimisation des processus IT
+- 🌱 Toujours en quête d'amélioration continue
+
+### 🛠️ Stack Technique
+
+**Infrastructure & Cloud :**
+- ☁️ AWS
+- 🖥️ Windows Server | Linux (RedHat, CentOS)
+- 🌐 CISCO Networking
+
+**DevOps & Automatisation :**
+- 🔄 Ansible | Terraform
+- 📦 Jenkins
+- ⚡ Kubernetes
+- 🌿 Git
+
+### 📚 En cours d'apprentissage
+
+- 📊 GitLab/GitHub - Workflows & CI/CD
+- ☁️ OpenStack
+- 📈 Kibana
+- 🔄 Méthodologies Agiles
+
+### 🎯 Objectifs
+
+- Approfondir mes connaissances en Infrastructure as Code
+- Maîtriser les pratiques DevOps modernes
+- Contribuer à l'amélioration continue des processus IT
+- Explorer les nouvelles technologies cloud
+
+### 💼 Background
+
+Fort de 14 années d'expérience en administration système et réseau, j'apporte une perspective unique à mes projets DevOps, combinant expertise traditionnelle et pratiques modernes.
+
+---
+💡 *"L'amélioration continue n'est pas juste une pratique, c'est un état d'esprit"*
