@@ -13,7 +13,6 @@ Passionné par l'innovation technologique et l'amélioration continue des systè
 
 ### 🛠️ Stack Technique et En cours d'apprentissage
 
-    ***Infrastructure, Cloud & DevOps :**  
 - ☁️ AWS, OpenStack  
 - 🖥️ Windows Server | Linux (RedHat, CentOS, Ubuntu)  
 - 🌐 Réseaux Cisco (VLAN, routage, commutation)  
